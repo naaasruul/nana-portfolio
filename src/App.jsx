@@ -11,7 +11,7 @@ function App() {
       <div className="relative h-screen">
         <Lanyard position={[0, 0, 20]} gravity={[0, -40, 0]} />
         <SplitText
-          text="Hello I'm Nana!"
+          text="Hello I'm Azwarina!"
           className="text-9xl font-semibold text-center absolute inset-20 flex items-center justify-center z-0 "
           delay={150}
           animationFrom={{ opacity: 0, transform: "translate3d(0,50px,0)" }}
